@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 Computer Engineer | NLP Software Developer at SiDi<br>📊 MBA in Data Science and Analytics Student<br>🤖 Studying Machine Learning and Django</p>
+<p align="left">👨‍💻 Computer Engineer | NLP Software Developer at SiDi<br>📊 MBA in Data Science and Analytics Student<br>🤖 Studying Machine Learning and Python frameworks</p>
 
 ###
 
